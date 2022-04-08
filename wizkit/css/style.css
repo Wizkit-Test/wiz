@@ -300,11 +300,20 @@ button:active{
   margin-top: 0px;
 }
 
-#type-js {
+#scr{
+  text-align: center;
   color: #41ff00;
-  display: inline-block;
-  margin-left: 30%;
-  margin-right: 30%;
-  line-height: 1;
-  animation:  1s step-end infinite;
+  font-family: 'Waiting for the Sunrise', cursive;
+ font-size:30px;
+ letter-spacing: 6px;
+ font-weight: bold;
+}
+
+.ani{
+  margin-top: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+  min-width: 100%;
+  min-height:200px;
+  background-color: #000000;
 }

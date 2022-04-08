@@ -1,13 +1,41 @@
-document.addEventListener("DOMContentLoaded", function () {
-  let letter = 0;
-  const text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit venenatis felis augue, a sodales eros lacinia vitae unc bibendum mollis magna quis convallis. Nam nec tincidunt enim, a ullamcorper ante. Suspendisse pretium arcu est, non dictum dui vulputate at. In rutrum mollis sem eget venenatis. Curabitur nulla nulla, ultrices ac dictum non, tincidunt vel tellus. Quisque eget lobortis dui, eget ornare turpis. Nunc pellentesque dui id erat imperdiet, nec placerat leo congue. Nam pretium ullamcorper laoreet. Suspendisse in purus suscipit, placerat metus id, malesuada tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum iaculis aliquam dui, nec sodales ipsum volutpat porttitor.";
-  function typeText() {
-    if (letter < text.length) {
-      document.getElementById("type-js").innerHTML += text.charAt(letter);
-      letter++;
-      let speed = Math.floor(Math.random() * 150) + 50;
-      setTimeout(typeText, speed);
-    }
+// set up text to print, each item in array is new line
+var aText = new Array(
+"There are only 10 types of people in the world:",
+"Those who understand binary, and those who don't"
+);
+var iSpeed = 100; // time delay of print out
+var iIndex = 0; // start printing array at this posision
+var iArrLength = aText[0].length; // the length of the text array
+var iScrollAt = 20; // start scrolling up at this many lines
+
+var iTextPos = 0; // initialise text position
+var sContents = ''; // initialise contents variable
+var iRow; // initialise current row
+
+function typewriter()
+{
+ sContents =  ' ';
+ iRow = Math.max(0, iIndex-iScrollAt);
+ var destination = document.getElementById("typedtext");
+
+ while ( iRow < iIndex ) {
+  sContents += aText[iRow++] + '<br />';
+ }
+ destination.innerHTML = sContents + aText[iIndex].substring(0, iTextPos) + "_";
+ if ( iTextPos++ == iArrLength ) {
+  iTextPos = 0;
+  iIndex++;
+  if ( iIndex != aText.length ) {
+   iArrLength = aText[iIndex].length;
+   setTimeout("typewriter()", 500);
   }
-  typeText();
-});
+ } else {
+  setTimeout("typewriter()", iSpeed);
+ }
+}
+
+
+typewriter();
+
+
+Resources

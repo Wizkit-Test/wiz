@@ -293,3 +293,18 @@ button:active{
   border-radius: 8px;
   box-shadow: inset 2px 2px 5px blue;
 }
+
+#design{
+  background-color: #000000;
+  min-height: 350px;
+  margin-top: 0px;
+}
+
+#type-js {
+  color: #41ff00;
+  display: inline-block;
+  margin-left: 30%;
+  margin-right: 30%;
+  line-height: 1;
+  animation:  1s step-end infinite;
+}

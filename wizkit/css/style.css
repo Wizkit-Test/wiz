@@ -143,46 +143,25 @@ img {
     float: left;
     padding: 15px;
   }
-  .col-1 {
-    width: 8.33%;
-  }
-  .col-2 {
-    width: 16.66%;
-  }
-  .col-3 {
-    width: 25%;
-  }
-  .col-4 {
-    width: 33.33%;
-  }
-  .col-5 {
-    width: 41.66%;
-  }
-  .col-6 {
-    width: 50%;
-  }
-  .col-7 {
-    width: 58.33%;
-  }
-  .col-8 {
-    width: 66.66%;
-  }
-  .col-9 {
-    width: 75%;
-  }
-  .col-10 {
-    width: 83.33%;
-  }
-  .col-11 {
-    width: 91.66%;
-  }
-  .col-12 {
-    width: 100%;
-  }
+  .col-1 {width: 8.33%;}
+  .col-2 {width: 16.66%;}
+  .col-3 {width: 25%;}
+  .col-4 {width: 33.33%;}
+  .col-5 {width: 41.66%;}
+  .col-6 {width: 50%;}
+  .col-7 {width: 58.33%;}
+  .col-8 {width: 66.66%;}
+  .col-9 {width: 75%;}
+  .col-10 {width: 83.33%;}
+  .col-11 {width: 91.66%;}
+  .col-12 {width: 100%;}
   #wiz {
     margin-left:2em;
     display: block;
     text-align: center;
+  }
+  .invite{
+    margin-bottom: 50px;
   }
 }
 
@@ -248,12 +227,15 @@ button.link {
 }
 
 .invite{
-  margin-bottom: -15px;
+  min-height:200px;
+  margin-bottom: -10px;
+  padding-top: 5px;
   background-color: #000000;
   color: #fff;
 }
 
 #invite{
+
   Text-align: center;
   font-size:20px;
 }
@@ -282,4 +264,32 @@ button.link {
   background-color: #221fa3;
   color: #fff;
   text-align: center;
+}
+.contact{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+button{
+  width: 250px;
+}
+input[type="text"], input[type="email"], textarea, select{
+  display: block;
+  margin: 10px 0px;
+  min-width: 100%;
+  max-width: 400px;
+  box-shadow: inset 2px 2px 5px grey;
+}
+
+textarea{
+  height: 200px;
+  background-color: lightblue;
+  padding: 5px 4px;
+}
+
+button:active{
+  background-color: red;
+  color: white;
+  border-radius: 8px;
+  box-shadow: inset 2px 2px 5px blue;
 }

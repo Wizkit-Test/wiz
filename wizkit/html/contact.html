@@ -36,8 +36,60 @@
     </a>
   </div>
   <!-- end nav -->
-
-
+  <div class="row contact">
+    <div class="col-6">
+      <h2 class="intro">Heeft u nog vragen of opmerkingen?</h2>
+      <p class="intro">
+        Dan kunt u ons contact formulier invullen en wij zullen ons best doen om
+        binnen 24 uur contact met u op te nemen.
+      </p>
+    </div>
+    <div class="col-4 contact">
+      <form id="contactform" action="https://formspree.io/f/xnqwjbjo" method="post">
+        <fieldset>
+          <legend>Uw Persoonlijke gegevens</legend>
+          <label for="naam">Naam</label>
+          <input id="naam" type="text" name="naam" placeholder="naam" required>
+          <br>
+          <label for="adres">Adres</label>
+          <input id="adres" type="text" name="adres" placeholder="Adres">
+          <br>
+          <label for="postcode">Postcode</label>
+          <input id="postcode" type="text" name="postcode" placeholder="Postcode">
+          <br>
+          <label for="woonplaats">Woonplaats</label>
+          <input id="woonplaats" type="text" name="woonplaats" placeholder="Woonplaats">
+          <br>
+          <label for="tel">telefoonnummer</label>
+          <input id="tel" type="text" name="tel" placeholder="uw telefoonnummer" minlength="10" required>
+          <br>
+          <label for="email">Uw e-mailadres</label>
+          <input id="email" type="text" name="_replyto" placeholder="Uw email" required>
+        </fieldset>
+        <fieldset>
+          <legend>Beschrijving van uw reden voor contact</legend><br>
+          <b>Selecteer één of meer klachten </b><br>
+          <input type="checkbox" name="onderwerpen" value="ja">Spoed
+          <input type="checkbox" name="onderwerpen" value="ja">Kiespijn
+          <input type="checkbox" name="onderwerpen" value="ja">Kapote vulling
+          <input type="checkbox" name="onderwerpen" value="ja">Problemen met beugel
+          <br>
+          <label for="foto">Selecteer een klachtenfoto</label>
+          <input type="file" id="foto" name="klachtenfoto"><br>
+        </fieldset>
+        <fieldset>
+          <legend>Toelichting van uw klachten</legend><br>
+          <label for="Toelichting">Toelichting</label>
+          <br>
+          <textarea id="Toelichting" name="message" placeholder="Uw klachten" minlength="1" maxlength="1500"></textarea>
+          <br>
+          <label for="voorkeur">Uw voorkeurs Datum voor Contact</label><br><br>
+          <input id="voorkeur" type="date" name="datum" max="2080-12-31"><br><br>
+          <input type="text" name="gotcha" style="display:none" />
+          <input type="submit" value="Verzend">
+        </fieldset>
+    </div>
+  </div>
   <!-- start footer -->
   <div class="row footer">
     <div class="col-4 f-box">

@@ -302,7 +302,7 @@ button {
   width: 250px;
 }
 
-input[type="text"], input[type="email"], textarea, select {
+input[type="text"], input[type="email"], input[type="tel"], textarea, select {
   display: block;
   margin: 10px 0px;
   min-width: 100%;

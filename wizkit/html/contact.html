@@ -59,46 +59,49 @@
     <div class="col-4 contact">
       <form id="contactform" action="https://formspree.io/f/xnqwjbjo" method="post">
         <fieldset>
-          <legend>Uw Persoonlijke gegevens</legend><br>
-          <label for="naam">Naam</label>
+          <legend><strong>Uw Persoonlijke gegevens</strong></legend><br>
+          <label for="naam"><strong>Naam</strong></label>
           <input id="naam" type="text" name="naam" placeholder="naam" required>
           <br>
-          <label for="adres">Adres</label>
+          <label for="adres"><strong>Adres</strong></label>
           <input id="adres" type="text" name="adres" placeholder="Adres">
           <br>
-          <label for="postcode">Postcode</label>
+          <label for="postcode"><strong>Postcode</strong></label>
           <input id="postcode" type="text" name="postcode" placeholder="Postcode">
           <br>
-          <label for="woonplaats">Woonplaats</label>
+          <label for="woonplaats"><strong>Woonplaats</strong></label>
           <input id="woonplaats" type="text" name="woonplaats" placeholder="Woonplaats">
           <br>
-          <label for="tel">telefoonnummer</label>
+          <label for="tel"><strong>telefoonnummer</strong></label>
           <input id="tel" type="text" name="tel" placeholder="uw telefoonnummer" minlength="10" required>
           <br>
-          <label for="email">Uw e-mailadres</label>
+          <label for="email"><strong>Uw e-mailadres</strong></label>
           <input id="email" type="text" name="_replyto" placeholder="Uw email" required>
         </fieldset>
         <fieldset>
-          <legend>Beschrijving voor contact</legend><br>
-          <b>Selecteer één of meer reden(en) </b><br>
-          <input type="checkbox" name="onderwerpen" value="ja">IT Services
-          <input type="checkbox" name="onderwerpen" value="ja">Design Services
-          <input type="checkbox" name="onderwerpen" value="ja">Vragen
-          <input type="checkbox" name="onderwerpen" value="ja">Offerte
+          <legend><strong>Beschrijving voor contact</strong></legend><br>
+          <strong>Selecteer één of meer reden(en) </strong><br>
+          <input type="checkbox" name="onderwerpen" value="ja"><strong>Computer Services</strong>&nbsp;
+          <input type="checkbox" name="onderwerpen" value="ja"><strong>Webdesign</strong><br>
+          <input type="checkbox" name="onderwerpen" value="ja"><strong>Design</strong>&nbsp;
+          <input type="checkbox" name="onderwerpen" value="ja"><strong>Logo Design</strong>&nbsp;
+          <input type="checkbox" name="onderwerpen" value="ja"><strong>Foto bewerking</strong><br>
+          <input type="checkbox" name="onderwerpen" value="ja"><strong>Vragen</strong>&nbsp;
+          <input type="checkbox" name="onderwerpen" value="ja"><strong>Offerte aanvraag</strong>
           <br><br>
-          <label for="foto">Selecteer Uw Bijlagen</label><br>
+          <label for="foto"><strong>Selecteer Uw Bijlagen</strong></label><br>
           <input type="file" id="foto" name="Bijlagen"><br>
         </fieldset>
         <fieldset>
-          <legend>Toelichting van uw reden van contact</legend><br>
-          <label for="Toelichting">Toelichting</label>
+          <legend><strong>Toelichting van uw reden van contact</strong></legend><br>
+          <label for="Toelichting"><strong>Toelichting</strong></label><br>
           <br>
           <textarea id="Toelichting" name="message" placeholder="Uw Toelichting" minlength="1" maxlength="1500"></textarea>
           <br>
-          <label for="voorkeur">Uw voorkeurs Datum voor Contact</label><br><br>
-          <input id="voorkeur" type="date" name="datum" max="2080-12-31"><br><br>
+          <label class="date" for="voorkeur"><strong>Uw voorkeurs Datum voor Contact</strong></label><br><br>
+          <input class="date" id="voorkeur" type="date" name="datum" max="2080-12-31"><br><br>
           <input type="text" name="gotcha" style="display:none" />
-          <input type="submit" value="Verzend">
+          <button class="link" type="submit" value="Verzend">Verzend</button>
         </fieldset>
     </div>
   </div>
@@ -139,11 +142,13 @@
 
   </div>
   <!-- end footer -->
-  <script src="../js/script.js"></script>
-  <script src="../js/slide_script.js"></script>
   <div class="row copy">
     <p>© 2022 - WizKit IT & Design Services. All rights reserved.</p>
   </div>
+  <img class="" src="../img/scroll.png" onclick="topFunction()" id="myBtn" title="Go to top">
+  <script src="../js/script.js"></script>
+  <script src="../js/design.js"></script>
+  <script src="../js/scroll.js"></script>
 </body>
 
 </html>

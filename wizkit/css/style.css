@@ -24,8 +24,8 @@ header {
 }
 
 #wiz {
+  padding-top:25px;
   position: relative;
-  margin-left: 0;
   height: 200px;
   max-height: 50%;
   animation: beweging 8s ;
@@ -106,10 +106,6 @@ header {
   display: none
 }
 
-img {
-  vertical-align: middle;
-}
-
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
@@ -172,11 +168,6 @@ img {
   .col-10 {width: 83.33%;}
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
-  #wiz {
-    margin-left: 2em;
-    display: block;
-    text-align: center;
-  }
   .invite {margin-bottom: 50px;}
 }
 
@@ -186,7 +177,7 @@ img {
 }
 
 .row {
-  margin-top: 10px;
+  padding: 10px;
 }
 
 .intro, .title-why, .title-porto {
@@ -227,6 +218,7 @@ button.link {
   display: block;
   margin-left: .25em;
   margin-right: auto;
+  padding: 20px;
 }
 
 .why {

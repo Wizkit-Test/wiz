@@ -31,17 +31,10 @@ header {
   animation: beweging 8s ;
   animation-timing-function: ease-in-out;
 }
-@media screen and (max-width: 600px){
-  @keyframes beweging {
-  0% {left: 0px;}
-  100% {left: 100px;}
- }
-}
 
 @keyframes beweging {
   0% {left: 0px;}
-  100% {left: 200px;}
-
+  100% {left: 120px;}
 }
 
 /* Add a black background color to the top navigation */

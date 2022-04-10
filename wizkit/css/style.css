@@ -28,13 +28,14 @@ header {
   position: relative;
   height: 200px;
   max-height: 50%;
-  animation: beweging 8s ;
-  animation-timing-function: ease-in-out;
 }
 
-@keyframes beweging {
-  0% {left: 0px;}
-  100% {left: 120px;}
+.img-why{
+  display: block;
+  width: 80px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Add a black background color to the top navigation */
@@ -207,6 +208,10 @@ header {
   color: #fff;
 }
 
+.portrow{
+  padding-bottom: 20px;
+}
+
 .date{
   display: block;
   margin-left: auto;
@@ -302,7 +307,7 @@ button {
   width: 250px;
 }
 
-input[type="text"], input[type="email"], input[type="tel"], textarea, select {
+input[type="text"], input[type="email"], input[type="tel"], textarea, select{
   display: block;
   margin: 10px 0px;
   min-width: 100%;

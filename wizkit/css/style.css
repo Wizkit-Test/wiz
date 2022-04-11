@@ -228,7 +228,11 @@ button.link {
   color: #04597d;
   margin-bottom: -10px;
 }
+.intro-why{
+  padding: 20px;
+  text-align: center;
 
+}
 .porto {
   padding: 10px;
   margin-top: -20px;

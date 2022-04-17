@@ -245,38 +245,13 @@
     <p>© 2022 - WizKit IT & Design Services. All rights reserved.</p>
     <!-- Messenger Chatplug-in Code -->
     <div id="fb-root"></div>
-
     <!-- Your Chatplug-in code -->
     <div id="fb-customer-chat" class="fb-customerchat">
     </div>
-
-    <script>
-      var chatbox = document.getElementById('fb-customer-chat');
-      chatbox.setAttribute("page_id", "110347931639533");
-      chatbox.setAttribute("attribution", "biz_inbox");
-    </script>
-
-    <!-- Your SDK code -->
-    <script>
-      window.fbAsyncInit = function() {
-        FB.init({
-          xfbml            : true,
-          version          : 'v13.0'
-        });
-      };
-
-      (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/nl_NL/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));
-    </script>
   </div>
-  <img class="scroll" src="img/scroll.png" onclick="topFunction()" id="myBtn" alt="placeholder">
   <script src="js/script.js"></script>
   <script src="js/slide_script.js"></script>
-  <script src="js/scroll.js"></script>
+  <script src="js/fyn.js"></script>
+  <script src="js/cb.js"></script>
 </body>
 </html>

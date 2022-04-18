@@ -310,6 +310,17 @@ ol{
   padding: 20px;
 }
 
+.platform{
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+.schrift{
+  display: block;
+  text-align: center;
+}
+
 .copy {
   padding: 10px;
   margin-top: -20px;

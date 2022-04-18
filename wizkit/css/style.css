@@ -239,12 +239,12 @@ button.link {
 .why{
   background-color: #d7d7d9;
   color: #04597d;
-  margin-bottom: -10px;
 }
 
-.intro-why{
+.why p {
   padding: 20px;
   text-align: center;
+  min-height: 230px;
 }
 
 .index{
@@ -270,9 +270,7 @@ ol{
   color: #fff;
 }
 
-.why p {
-  padding: 20px;
-}
+
 
 .education {
   margin-left: auto;

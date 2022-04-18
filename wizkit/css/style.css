@@ -308,9 +308,7 @@ button.link {
   margin-left: auto;
   margin-right: auto;
 }
-.info{
-  padding:20px;
-}
+
 .index{
   padding: 10px;
   display: block;
@@ -323,7 +321,7 @@ ol{
   max-width: 500px;
   display: table;
   margin: 0;
-  padding: 0px;
+  padding: 0 20 0 20;
   margin-left: auto;
   margin-right: auto;
 }

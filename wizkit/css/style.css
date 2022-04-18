@@ -183,11 +183,20 @@ header {
 
 .intro, .title-why, .title-porto {
   text-align: center;
-  padding: 20px;
-}
 
+  padding:20px;
+}
+.title{
+  display: flex;
+  text-align: center;
+  padding:50px;
+  padding-bottom:0;
+}
+.title1{
+  display: block;
+  text-align: center;
+}
 .hero {
-  padding: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -208,6 +217,9 @@ header {
   color: #fff;
 }
 
+#brand{
+  font-size: 20px;
+}
 .portrow{
   padding-bottom: 20px;
 }
@@ -236,6 +248,7 @@ button.link {
 }
 
 .index{
+  padding: 10px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -292,13 +305,6 @@ ol{
   margin-right: auto;
 }
 
-.text-center{
-  display: block;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .footer {
   min-height: 200px;
   background-color: #221fa3;
@@ -319,6 +325,19 @@ ol{
 .schrift{
   display: block;
   text-align: center;
+}
+
+.logo-title{
+  text-align: center;
+  display: block;
+  font-size: 24px;
+}
+
+.logo-design{
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
 }
 
 .copy {

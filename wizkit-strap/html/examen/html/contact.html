@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="nl" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="">
+      <title>Muziekschool H&J</title>
+        <link rel="stylesheet" type="text/css" href="../css/style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <h1 class="titel">Muziekschool H&J</h1>
+      <p class="slogan">
+        Contact
+      </p>
+    </header>
+    <div class="topnav" id="myTopnav">
+      <a href="../index.html">Home</a>
+      <a href="info.html">Over ons</a>
+      <a href="prijs.html">Tarieven</a>
+      <a href="contact.html" class="active">Contact</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+    </div>
+    <div class="hr"></div>
+    <div class="container">
+      <div id="cont1" class="col-md-3 side">
+        <h2 class="txt">Adresgegevens</h2>
+        <p class="txt">
+          Muziekschool H&J<br>t.a.v Hannah en Jesse Industrieterrein 37<br>
+          5981 NK Panningen<br>0123-456789<br>muziekschoolhj@inlook.com
+        </p>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2492.74979548687!2d5.976007815975679!3d51.33412173117832!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c7485bd60bbd61%3A0x73a8c69eb69bad56!2sNHA%20Opleidingen!5e0!3m2!1sen!2snl!4v1648068280886!5m2!1sen!2snl" allowfullscreen="" loading="lazy"></iframe>
+      </div>
+      <div id="cont2" class="col-md-10 main">
+        <div id="form">
+        <h2 class="main-titel">Contact</h2>
+        <b class="sidescript">U kunt een bericht achterlaten via onderstaand
+          formulier.
+        </b><br><br>
+        <form>
+          <label for="naam">Uw naam</label><br>
+            <input class="field" id="naam" type="text" name="naam" placeholder="naam">
+            <br><br>
+          <label for="achternaam">Uw achternaam</label><br>
+            <input class="field" id="achternaam" type="text" name="achternaam" placeholder="naam">
+            <br><br>
+          <label for="email">Uw e-mailadres</label><br>
+            <input class="field" id="email" type="text" name="_replyto" placeholder="Uw email">
+            <br><br>
+          <label>Land</label><br>
+          <select class="field" name="opleiding">
+           <option value="Nederland" selected>Nederland</option>
+           <option value="België">België</option>
+           <option value="Duitsland">Duitsland</option>
+         </select><br><br>
+          <label style="font-size: 16px;" for="Bericht">Bericht</label><br>
+          <textarea id="Bericht" name="message" placeholder="Bericht" minlength="1" maxlength="1500"></textarea>
+          <br><br>
+          <button>Verzend</button>
+        </form>
+      </div>
+    </div>
+    </div>
+    <footer>
+      <p class="footer">
+        © Copyright 2022 Muziekschool H&J<br>(Dit is een Voorbeeld,
+        alle informatie op deze website is fictief.)
+      </p>
+    </footer>
+    <script src="../js/nav-script.js"></script>
+  </body>
+</html>

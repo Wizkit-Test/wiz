@@ -263,8 +263,59 @@ span{
 
 .logo-design{
   max-height: 468px;
-  padding: 0;
-  margin:0;
+  padding: 10px;
+}
+
+.logo-design2{
+  display: block;
+  max-width: 100%;
+  max-height:500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* contact page styles */
+.contact {
+  display: block;
+  max-width:600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  border: 1px solid rgb(0, 0, 0);
+}
+
+.contact-text{
+  padding: 20px;
+}
+
+button {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #221fa3;
+  color: #fff;
+  border-radius: 120px;
+}
+
+input[type="text"], input[type="email"], input[type="tel"], textarea, select{
+  display: block;
+  margin: 10px 0px;
+  min-width: 100%;
+  max-width: 400px;
+  box-shadow: inset 2px 2px 5px grey;
+}
+
+textarea {
+  height: 200px;
+  padding: 5px 4px;
+  box-shadow: inset 2px 2px 5px grey;
+}
+input[type="date"]{
+  display: block;
+  max-width:250px;
+  margin-left: auto;
+  margin-right: auto;
 }
 /* footer */
 footer {

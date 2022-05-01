@@ -1,0 +1,325 @@
+/* stylesheet WizKit it & Design Services */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--background-color);
+}
+
+.container{
+  padding: 10px;
+  margin: 20px;
+}
+
+:root {
+  --gradient: linear-gradient(to right,
+      #9b70c6 2%,
+      #8bfbf5 49%,
+      #a0faa6 71%,
+      #f1fa94 100%);
+}
+
+/* header styles */
+header {
+  padding: 10px;
+  margin-top: 0;
+  background-color: #221fa3;
+  min-height: 200px;
+  color: #fff;
+  text-align: center
+}
+
+.brand{
+  text-align: center;
+  margin: 10px;
+}
+#wiz {
+  display: block;
+  overflow: hidden;
+  padding: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  height: 200px;
+  animation: beweging 8s;
+  animation-timing-function: ease-in-out;
+}
+
+@keyframes beweging {
+  0% {left: -100px;}
+  100% {left: 300px;}
+}
+
+@media screen and (max-width: 600px){
+  @keyframes beweging {
+    0% {left: -250px;}
+    100% {left: 0px;}
+  }
+}
+
+.img-fluid-header {
+  width: 100%;
+  max-height: 400px;
+}
+/*end header*/
+
+/* index styles */
+/* fist container styles */
+.title{
+  text-align: center;
+  padding-right: 20px;
+}
+
+.welcome{
+  display: block;
+  max-width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.intro-row{
+  background-color: #d7d7d9;
+}
+
+.title-why{
+  text-align: center;
+}
+
+.img-why{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75px;
+  height: 75px;
+}
+
+.cards{
+  padding: 20px;
+}
+
+.porto {
+  padding: 10px;
+  text-align: center;
+  background-color: #000000;
+
+  color: #fff;
+}
+
+.btn{
+  background-color: rgb(29, 39, 204);
+  color: #fff;
+  border-radius: 120px;
+  border: 2px solid rgb(33, 106, 122);
+  width: 250px;
+}
+
+.img-fluid-promo{
+  padding: 10px;
+}
+
+/* about page styles*/
+.info{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 380px;
+}
+
+.img-fluid-cert{
+    padding: 10px;
+}
+
+/* computer page styles*/
+#scr {
+  padding-top: 30px;
+  text-align: center;
+  color: #41ff00;
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-size: 30px;
+  letter-spacing: 6px;
+}
+
+.ani {
+  margin-top: 0px;
+  padding-left: 50px;
+  padding-right: 50px;
+  min-width: 100%;
+  min-height: 150px;
+  background-color: #000000;
+}
+
+.it-box{
+  display: block;
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.space{
+  padding-top: 20px;
+}
+
+.title-b{
+  text-align: center;
+  font-weight: bold;
+}
+
+.it_service{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 700px;
+  padding: 20px;
+}
+
+.hardware{
+  display: block;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+span{
+  font-weight: bold;
+}
+
+/* design page styles */
+/* type scripts */
+.write{
+  display: inline-block;
+  max-width: 320px;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 0;
+    background-color: #9b70c6;
+  }
+
+  50% {
+    opacity: 1;
+    background-color: #8bfbf5;
+  }
+
+  100% {
+    opacity: 0;
+    background-color: #9b70c6;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .typing{
+    font-family: monospace;
+    background: var(--gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2.5rem;
+    position: relative;
+    padding: 10px;
+  }
+}
+
+.typing {
+  font-family: monospace;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 4rem;
+  position: relative;
+}
+
+.typing::after {
+  content: "";
+  position: absolute;
+  height: 90%;
+  width: 2px;
+  background-color: #3e3f4e;
+  color: black;
+  padding: 1px;
+  left: 100%;
+  animation: blink 700ms infinite ease;
+}
+
+#design {
+  display: block;
+  background-color: #000000;
+  min-height: 100px;
+  text-align: center;
+  padding: 20px;
+}
+
+.platform{
+  list-style: none;
+  text-align: center;
+  padding: 0;
+}
+
+.text{
+  display: block;
+  max-width: 470px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+
+.logo-design{
+  max-height: 468px;
+  padding: 0;
+  margin:0;
+}
+/* footer */
+footer {
+  min-height: 200px;
+  background-color: #221fa3;
+  color: #fff;
+}
+
+.f-box {
+  text-align: center;
+  padding: 10px;
+}
+
+.f-link{
+  color: #fff;
+  text-decoration: none;
+  line-height: 2;
+}
+
+.f-link.active{
+  color: rgb(90, 208, 207);
+}
+
+.f-link:hover{
+  color: black;
+}
+
+iframe{
+  display: inline-block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  border: none;
+
+}
+.valid{
+  display: inline-block;
+  max-width: 88px;
+  max-height: 31px;
+  float: right;
+}
+.whatsapp-icon{
+  width: 80px;
+  height: 95px;
+}
+
+.mail-icon{
+  width: 95px;
+  height: 95px;
+}
+
+.copy {
+  padding: 10px;
+  background-color: #221fa3;
+  color: #fff;
+  text-align: center;
+}

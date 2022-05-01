@@ -223,7 +223,7 @@ span{
   background: var(--gradient);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-size: 4rem;
+  font-size: 3rem;
   position: relative;
 }
 

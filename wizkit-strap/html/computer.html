@@ -19,11 +19,70 @@
   <link rel="stylesheet" type="text/css" href="../css/style.css">
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-JFDJCSB656"></script>
   <!-- Google Tag Manager -->
-  <script src="../js/gtag.js"></script>
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WVSD4HR');
+  </script>
   <!-- End Google Tag Manager -->
-  <script src="../js/custom.js"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-JFDJCSB656');
+  </script>
 </head>
+
 <body>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+
+      dataLayer.push(arguments);
+
+    }
+
+    gtag(“consent”, “
+      default”, {
+
+        ad_storage: “denied”,
+
+        analytics_storage: “denied”,
+
+        functionality_storage: “denied”,
+
+        personalization_storage: “denied”,
+
+        security_storage: “granted“,
+
+        wait_for_update: 2000,
+
+      });
+
+    gtag(“set”, “ads_data_redaction”, true);
+  </script>
+  <!-- Start cookieyes banner -->
+  <script id="cookieyes" src="https://cdn-cookieyes.com/client_data/dbc1c7d2703ddc6c0f86aabc/script.js"></script>
+  <!-- End cookieyes banner -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVSD4HR" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
   <header>
     <div class="container-fluid">
       <div class="row">
@@ -155,7 +214,7 @@
       <div class="col-12 col-md-8 col-lg-8 it-box">
         <h2 class="title space">Hardware problemen</h2><br>
         <img class="img-fluid" src="../img/recovery.png" alt="Recovery" title="start recovery">
-        <p  class="it_service">
+        <p class="it_service">
           Iedereen kent het wel u wilt uw telefoon aansluiten, maar er komt meteen
           een error dit apparaat word niet herkent.<br>Of u bent muziek aan het
           luisteren en je hebt geen geluid meer.<br>Of u bent bezig met uw administratie
@@ -200,7 +259,7 @@
           <h3 class="text-center">Contact</h3>
           <p>
             <a href="https://wa.me/+31649938330" target="_blank" rel="noopener noreferrer"><img class="whatsapp-icon" src="../img/whatsapp.png" alt="app"></a><br><br>
-            <a href="html/contact.html" target="_blank"><img class="mail-icon" src="../img/email.png" alt="email"></a>
+            <a href="contact.html" target="_blank"><img class="mail-icon" src="../img/email.png" alt="email"></a>
           </p>
         </div>
         <!-- end third footer box -->

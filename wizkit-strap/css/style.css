@@ -81,7 +81,8 @@ header {
 }
 
 .title-why{
-  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .img-why{

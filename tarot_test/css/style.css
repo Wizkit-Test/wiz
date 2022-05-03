@@ -31,12 +31,12 @@ html body {
 }
 
 @media screen and (max-width: 600px){
-  #info-1{
-    color: rgb(0, 0, 0);
-    padding: 1em;
-  }
   #info-2, #info-3{
     color: rgb(203, 207, 206);
+    padding: 1em;
+  }
+  #info-1{
+    color: rgb(0, 0, 0);
     padding: 1em;
   }
   .info-3{

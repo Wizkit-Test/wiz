@@ -780,7 +780,7 @@ function createDeck() {
 
 //gets Rider Waite Card Image i = id from createDeck()
 function riderWaite(i) {
-    var img = $("<img class='img-thumbnail' src='http://www.free-tarot-reading.net/img/cards/rider-waite/" +
+    var img = $("<img class='img-thumbnail' src='img/cards/" +
       deck[i].name + ".jpg' alt=" + deck[i].name + "/>");
     return img;
 }
@@ -823,10 +823,10 @@ function pastPresentFuture() {
 }
 
 //Shows all cards (used in debugging)
-//function dealerDeck() {
-//  createDeck();
-//  $("img").remove();
-//  for (var i = 1; i < Object.keys(deck).length; i++) {
-//    riderWaite(i);
-//  }
-//}
+function dealerDeck() {
+ createDeck();
+  $("img").remove();
+ for (var i = 1; i < Object.keys(deck).length; i++) {
+   riderWaite(i);
+  }
+}

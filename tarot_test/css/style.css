@@ -1,6 +1,8 @@
 html body {
-  padding-left: 10%;
-  padding-right: 10%;
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1em;
   font-family: 'Satisfy', cursive;
 }
 .slider {

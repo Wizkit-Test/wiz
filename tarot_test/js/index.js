@@ -3,7 +3,7 @@ var deck = {};
 var rank = "";
 var suit = "";
 var deckArr = [];
-var cardBack = "<img class='img-thumbnail' src='img/tar.png'>";
+var cardBack = "<img class='img-thumbnail' src='img/tarot.png'>";
 var meanings = {
     upright: [
     //CUPS

@@ -57,7 +57,16 @@ html body {
   -webkit-transform: rotate(180deg);
   transform: rotate(180deg);
 }
+.img-thumbnail{
+  background-color: inherit;
+  border: none;
+  margin: 0 auto;
+  padding: 0;
+}
 
+.non{
+  display: none;
+}
 /*#card-img td {
   top: 0;
   max-width: 230px;

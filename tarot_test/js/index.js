@@ -3,7 +3,7 @@ var deck = {};
 var rank = "";
 var suit = "";
 var deckArr = [];
-var cardBack = "<img class='img-thumbnail' src='https://www.wopc.co.uk/images/subjects/tarot/rider-waite/pam-roses-lilies-back.jpg'>";
+var cardBack = "<img class='img-thumbnail' src='img/tar.png'>";
 var meanings = {
     upright: [
     //CUPS

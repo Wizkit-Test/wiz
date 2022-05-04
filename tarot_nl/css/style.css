@@ -49,6 +49,11 @@ html body {
     font-size: 1.5em;
 }
 
+.cards{
+  padding: 10px;
+  text-align: center;
+}
+
 .invert {
   -moz-transform: rotate(180deg);
   -o-transform: rotate(180deg);

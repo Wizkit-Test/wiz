@@ -1,0 +1,76 @@
+html body {
+  background-image: url(../img/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1em;
+  font-family: 'Satisfy', cursive;
+}
+.slider {
+  max-width: 80%;
+  text-align: center;
+}
+
+.blurb {
+  text-align: justify;
+  background: rgba(0, 0, 0, 0.33);
+  color: rgb(203, 207, 206);
+  padding: 1em;
+  font-size: 1.5em;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.title{
+  color: rgb(203, 207, 206);
+  text-align: center;
+}
+
+.btn{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+}
+
+#home{
+  display: block;
+  max-width: 350px;
+  margin: 5px;
+  float: left;
+}
+
+#logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
+}
+#info-1, #info-2, #info-3{
+    color: rgb(203, 207, 206);
+    padding: 1em;
+    font-size: 1.5em;
+}
+
+
+
+.invert {
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.img-thumbnail{
+  background-color: inherit;
+  border: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.non{
+  display: none;
+}
+/*#card-img td {
+  top: 0;
+  max-width: 230px;
+  height: 100%
+}*/

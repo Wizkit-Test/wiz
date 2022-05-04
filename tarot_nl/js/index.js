@@ -9,232 +9,232 @@ var meanings = {
     //CUPS
     {
         name:
-        "Ace of cups is the card for new love, compassion, joy and creativity. If this card shows up with Ace of Pentacles it often means moving in together in a relationship."
+        "Aas van bekers is de kaart voor nieuwe liefde, medeleven, vreugde en creativiteit. Als deze kaart samen met de Aas van Pentakels verschijnt, betekent dit vaak dat je gaat samenwonen in een relatie."
     },
     {
         name:
-        "Two of cups is the card for being in love and being in a close relationship, There is real intimacy in the relationship, and you know and understand each other on a deep level."
+        "Twee van bekers is de kaart voor verliefdheid en een hechte relatie, er is echte intimiteit in de relatie, en je kent en begrijpt elkaar op een diep niveau."
     },
     {
         name:
-        "Three of cups is the card for celebration, going out with friends, having a good time and being part of a community. This card often shows up when someone is getting engaged or married."
+        "Drie van bekers is de kaart voor feestvieren, uitgaan met vrienden, plezier maken en deel uitmaken van een gemeenschap. Deze kaart komt vaak voor als iemand zich gaat verloven of gaat trouwen."
     },
     {
         name:
-        "Four of cups is the card for contemplation. It often shows up when the querent is dissatisfied about something and doesn’t fully notice what they are being offered."
+        "Vier van bekers is de kaart voor contemplatie. Zij komt vaak tevoorschijn wanneer de vraagsteller ontevreden is over iets en niet volledig opmerkt wat hem wordt aangeboden."
     },
     {
         name:
-        "Five of cups is the card for regrets and disappointment, especially in love. A relationship might not have turned out the way you would have liked it to."
+        "Vijf van bekers is de kaart voor spijt en teleurstelling, vooral in de liefde. Een relatie is misschien niet zo gelopen als je had gewild."
     },
     {
         name:
-        "Six of cups is the card for sensuality and pleasure, memories, innocence, nostalgia and childhood. Sometimes this card shows up when someone from the past is on their way back into your life again."
+        "Zes van bekers is de kaart voor sensualiteit en plezier, herinneringen, onschuld, nostalgie en kindertijd. Soms duikt deze kaart op als iemand uit het verleden weer op weg is naar je leven."
     },
     {
         name:
-        "Seven of cups is the card for day dreaming, illusions, wishful thinking, and fantasies. This card usually shows up when you have plenty of choices and need a vision to make them a reality."
+        "Zeven van bekers is de kaart voor dagdromen, illusies, wensdenken, en fantasieën. Deze kaart komt meestal tevoorschijn wanneer je veel keuzes hebt en een visie nodig hebt om ze te verwezenlijken."
     },
     {
         name:
-        "Eight of cups is the card for turning your back at something to go and follow your dream. The day-dreaming that happened in Seven of cups has materialized in a vision that the querent is going to pursuit."
+        "Acht van bekers is de kaart voor het de rug toekeren naar iets om je droom te gaan volgen. Het dagdromen dat in Zeven bekers gebeurde, heeft zich gematerialiseerd in een visioen dat de querent gaat nastreven."
     },
     {
         name:
-        "Nine of cups is the card for getting what you want and having a wish come true. This card speaks of abundance and satisfaction, and also about being proud of what you have achieved."
+        "Negen van bekers is de kaart voor krijgen wat je wilt en een wens in vervulling laten gaan. Deze kaart spreekt over overvloed en tevredenheid, en ook over trots zijn op wat je hebt bereikt."
     },
     {
         name:
-        "Ten of cups is the card for total spiritual bliss experienced in your relationship, home and family life. This card is about being in alignment with your true nature and everything in your life is in harmony with your higher self and purpose on this planet."
+        "Tien van bekers is de kaart voor totale spirituele gelukzaligheid die je ervaart in je relatie, huis en gezinsleven. Deze kaart gaat over het in overeenstemming zijn met je ware aard en dat alles in je leven in harmonie is met je hogere zelf en je doel op deze planeet."
     },
     {
         name:
-        "Page of cups denotes a young person with gentle and sensitive nature. This is someone who lives in wonder and can be quite naive at times."
+        "De schildknaap van bekers duidt op een jong persoon met een zachtaardige en gevoelige aard. Dit is iemand die in verwondering leeft en soms heel naïef kan zijn."
     },
     {
         name:
-        "Knight of cups denotes a person on a quest to declare his love. This is your knight in shining armor. He is a singer, poet, and writer. He paints and creates wherever he goes. He is artistic and incredibly lovable."
+        " De ridder van bekers duidt op een persoon op een zoektocht om zijn liefde te verklaren. Dit is jouw ridder in blinkend harnas. Hij is een zanger, dichter en schrijver. Hij schildert en creëert waar hij ook gaat. Hij is artistiek en ongelooflijk beminnelijk."
     },
     {
         name:
-        "Queen of cups denotes a woman who is highly intuitive and sensitive. She is in touch with her emotions, her subconscious and the universe. She is compassionate and cares deeply about her life and those in it."
+        "De koningin van bekers duidt op een vrouw die zeer intuïtief en gevoelig is. Ze staat in contact met haar emoties, haar onderbewustzijn en het universum. Ze is meelevend en geeft veel om haar leven en dat van anderen."
     },
     {
         name:
-        "King of cups denotes a warm, honest and generous man who is kind and fair. This is someone who is in control over his own emotions."
+        "De koning van bekers duidt op een warme, eerlijke en gulle man die vriendelijk en eerlijk is. Dit is iemand die zijn eigen emoties onder controle heeft."
     },
 
     //PENTACLES
     {
         name:
-        "Ace of Pentacles symbolises a new beginning in your financial situation and an opportunity to deepen your security."
+        "Aas van Pentacles symboliseert een nieuw begin in je financiële situatie en een kans om je zekerheid te verdiepen."
     },
     {
         name:
-        "Two of Pentacles symbolises juggling with finances. You might have income from more than one source. Two of Pentacles also indicates investing money into different projects, or bartering."
+        "Twee van Pentacles symboliseert jongleren met financiën. Misschien heb je inkomsten uit meer dan één bron. Twee van Pentakels wijst ook op het investeren van geld in verschillende projecten, of ruilhandel."
     },
     {
         name:
-        "Three of Pentacles symbolises your work, especially where team work or listening to clients/customers are concerned. This is a positive card which indicates job satisfaction and taking pride in your work, but you must put in the effort to see results."
+        "Drie van Pentales symboliseert je werk, vooral als het gaat om teamwerk of luisteren naar klanten/cliënten. Dit is een positieve kaart die wijst op voldoening in je werk en trots zijn op je werk, maar je moet er wel moeite voor doen om resultaten te zien."
     },
     {
         name:
-        "Four of Pentacles symbolises the need for security and recognition in your life, to have control over your possession and to keep abundance and money increasing. This card shows stubbornness in the situation or in the querent."
+        "Vier van Pentacles symboliseert de behoefte aan zekerheid en erkenning in je leven, om controle te hebben over je bezit en om overvloed en geld te laten toenemen. Deze kaart toont koppigheid in de situatie of in de querent."
     },
     {
         name:
-        "Five of Pentacles symbolises financial loss or hardship. It can also mean you are in a place where you feel there is no security and your health might be suffering."
+        "Vijf van Pentacles symboliseert financieel verlies of tegenspoed. Het kan ook betekenen dat je je op een plek bevindt waar je je niet veilig voelt en je gezondheid kan eronder lijden."
     },
     {
         name:
-        "Six of Pentacles symbolises generosity towards those who has less than you. It can also mean receiving generosity from others."
+        "Zes van Pentacles symboliseert vrijgevigheid jegens hen die het minder hebben dan jij. Het kan ook betekenen dat je vrijgevigheid van anderen ontvangt."
     },
     {
         name:
-        "Seven of Pentacles symbolises a vision that will pay off in the future. You are planting the seeds so that you will be able to harvest a more secure and abundant future for yourself."
+        "Zeven van Pentacles symboliseert een visie die in de toekomst vruchten zal afwerpen. Je plant de zaadjes zodat je in staat zult zijn een veiliger en overvloediger toekomst voor jezelf te oogsten."
     },
     {
         name:
-        "Eight of Pentacles symbolise craftsmanship in regards to work. It can also mean doing an apprenticeship and/or learning a new skill."
+        "Acht van Pentacles symboliseert vakmanschap met betrekking tot werk. Het kan ook betekenen dat je in de leer gaat en/of een nieuwe vaardigheid leert."
     },
     {
         name:
-        "Nine of Pentacles symbolises luxury, financial security and being on a lavish holiday."
+        "Negen van Pentacles symboliseert luxe, financiële zekerheid en op een uitbundige vakantie zijn."
     },
     {
         name:
-        "Ten of Pentacles symbolises the type of wealth you get when you inherit something, being it your own retirement money, hand me downs, or possessions from someone who has passes away."
+        "Tien van Pentacles symboliseert het soort rijkdom dat je krijgt als je iets erft, of dat nu je eigen pensioengeld is, een aalmoes, of bezittingen van iemand die is overleden."
     },
     {
         name:
-        "Page of Pentacles indicates reinventing yourself in some way. It often denotes an opportunity to start something new, whether it is a creative venture, studying, business or a new job offer. Page of pentacles is not yet an expert in the field of choice but has a clear goal and dream to achieve."
+        "De schildknaap pentacles geeft aan dat je jezelf op de een of andere manier opnieuw aan het uitvinden bent. Het duidt vaak op een kans om iets nieuws te beginnen, of het nu gaat om een creatieve onderneming, een studie, een bedrijf of een nieuwe baan. Page of pentacles is nog geen expert op het gebied van keuze maar heeft een duidelijk doel en droom voor ogen."
     },
     {
         name:
-        "Knight of Pentacles denotes being of service and doing the actual work (in contrast to Page of Pentacles who enjoys daydreaming about the idea rather than actual living it). Knight of Pentacles is comfortable with routine and is efficient and conservative."
+        "De ridder van pentacles staat voor dienstbaar zijn en het eigenlijke werk doen (in tegenstelling tot Page van Pentakels die graag over het idee dagdroomt in plaats van het werkelijk te beleven). Ridder van Pentakels voelt zich op zijn gemak met routine en is efficiënt en conservatief."
     },
     {
         name:
-        "Queen of Pentacles is someone with a down to earth and practical approach to life and situations. It is important to have work/home balance, in fact if you could work from home you probably would. This card takes enjoyment in material pleasures and success."
+        "De koningin van pentacles is iemand met een nuchtere en praktische benadering van het leven en situaties. Het is belangrijk om werk en privé in balans te hebben, als je vanuit huis zou kunnen werken zou je dat waarschijnlijk doen. Deze kaart geniet van materiële genoegens en succes."
     },
     {
         name:
-        "King of Pentacles symbolises a successful businessman or a person in a manager position. This is a stable and authoritative character, who is hard-working and dependable."
+        "De koning van Pentakels symboliseert een succesvolle zakenman of een persoon in een leidinggevende positie. Dit is een stabiel en gezaghebbend karakter, dat hard werkt en betrouwbaar is."
     },
 
     //SWORDS
     {
         name:
-        "Ace of swords is the card for a new thought and belief system. It is the potential of mental energy used to create clarity and often also justice."
+        "Aas van zwaarden is de kaart voor een nieuwe gedachte en geloofssysteem. Het is de potentie van mentale energie die gebruikt wordt om helderheid en vaak ook rechtvaardigheid te scheppen."
     },
     {
         name:
-        "Two of Swords is the card for compromise, passiveness, keeping the peace (as in not rocking the boat), stalemate, indecision and avoiding conflict."
+        "Twee van zwaarden is de kaart voor compromis, passiviteit, de vrede bewaren (als in de boot niet schommelen), patstelling, besluiteloosheid en het vermijden van conflicten."
     },
     {
         name:
-        "Three of Swords denotes heartbreak. sorrow, pain and separation. Sometimes the separation is only temporary, other times it is final."
+        "Drie van zwaarden duidt op liefdesverdriet, verdriet, pijn en scheiding. Soms is de scheiding slechts tijdelijk, andere keren is ze definitief."
     },
     {
         name:
-        "Four of Swords is about rest and rejuvenation, getting enough sleep and taking time out to meditate."
+        "Vier van zwaarden gaat over rust en verjonging, voldoende slapen en tijd nemen om te mediteren."
     },
     {
         name:
-        "Five of Swords is the card for defeat and betrayal, conflict and unhealthy competition. Words will be hurtful, lies will be told and your weaknesses used against you."
+        "Vijf van zwaarden is de kaart voor nederlaag en verraad, conflict en ongezonde concurrentie. Woorden zullen kwetsend zijn, leugens zullen worden verteld en je zwakheden zullen tegen je worden gebruikt."
     },
     {
         name:
-        "Six of Swords is about crossing the troubled sea and entering into calmer water. This is the card for finding solutions and implementing them, often bringing other people with you in the process, ie, your family, friends, and colleagues."
+        "Zes van zwaarden gaat over het oversteken van de onrustige zee en het betreden van rustiger water. Dit is de kaart voor het vinden en uitvoeren van oplossingen, waarbij je vaak andere mensen met je meeneemt in het proces, d.w.z. je familie, vrienden en collega's."
     },
     {
         name:
-        "Seven of Swords denotes someone is moving forward in less than honourable ways. There is often dishonesty connected with this card, and trying to get away with something or trying to get out of something by lying."
+        "Zeven van zwaarden geeft aan dat iemand op een minder eervolle manier vooruit gaat. Er is vaak oneerlijkheid verbonden met deze kaart, en proberen om weg te komen met iets of proberen om onder iets uit te komen door te liegen."
     },
     {
         name:
-        "Eight of Swords is the card of being stuck and unable to move on due to confusion and not knowing what is going on. Often people draw this card when their own gut feeling is being overruled by other people."
+        "Acht van zwaarden is de kaart van vastzitten en niet verder kunnen door verwarring en niet weten wat er aan de hand is. Vaak trekken mensen deze kaart wanneer hun eigen gevoel wordt overruled door andere mensen."
     },
     {
         name:
-        "Nine of Swords denotes worry and anxiety, sleeplessness and being overwhelmed by negative emotions such as guilt and regrets."
+        "Negen van zwaarden duidt op bezorgdheid en angst, slapeloosheid en overweldigd worden door negatieve emoties zoals schuldgevoelens en spijt."
     },
     {
         name:
-        "Ten of Swords is the card for endings and loss, backstabbing and lack of support. Sometimes this card denotes hitting rock bottom. It has the mentality of ‘when it rains it pours’, and the querent might be feeling there is no end of the suffering."
+        "Tien van zwaarden is de kaart voor het einde en verlies, achterbaksheid en gebrek aan steun. Soms duidt deze kaart op het bereiken van de bodem. Het heeft de mentaliteit van 'als het regent, giet het', en de vraagsteller kan het gevoel hebben dat er geen einde aan het lijden komt."
     },
     {
         name:
-        "Page of Swords denotes a young and mentally very active and clever person. This is someone who can concentrate over long periods of time and who learns new skills easily, especially mental skills."
+        "De schildknaap van zwaarden duidt op een jong en geestelijk zeer actief en slim persoon. Dit is iemand die zich gedurende lange perioden kan concentreren en die gemakkelijk nieuwe vaardigheden aanleert, vooral mentale vaardigheden."
     },
     {
         name:
-        "Knight of Swords denotes a communicative, strong-minded and at times an opinionated person who is very action oriented and thrive on change. This is someone with a competitive streak and doesn’t like to let go of his/hers position in an argument."
+        "De ridder van zwaarden duidt op een communicatieve, vastberaden en soms een eigenzinnige persoon die zeer actiegericht is en die van verandering houdt. Dit is iemand met een competitieve inslag en die niet graag zijn/haar positie in een argument loslaat."
     },
     {
         name:
-        "Queen of Swords denotes a woman who is cold, professional and smart. She is witty and funny in an intelligent way (no toilet humour). She often represents single women who have been hurt in love, and is bitter and hurt, but a master at covering it up."
+        "De koningin van zwaarden duidt op een vrouw die koud, professioneel en slim is. Ze is geestig en grappig op een intelligente manier (geen toilethumor). Ze vertegenwoordigt vaak alleenstaande vrouwen die gekwetst zijn in de liefde, en is bitter en gekwetst, maar een meester in het verdoezelen ervan."
     },
     {
         name:
-        "King of Swords denotes a professional man who is at the top of his game. This is someone who is an expert in his field and would have had to study to acquire this knowledge."
+        "De koning van zwaarden duidt op een professionele man die op de top van zijn kunnen staat. Dit is iemand die een expert is op zijn gebied en zou hebben moeten studeren om deze kennis te verwerven."
     },
     // WANDS
     {
         name:
-        "Ace of wands speaks of new beginnings. Be bold and start something new. Follow your inspiration. Ace of Wands speaks of births of all kinds; the birth of enterprises and job opportunities, and also the birth of a baby."
+        "Aas van staven spreekt van een nieuw begin. Wees moedig en begin iets nieuws. Volg je inspiratie. Aas van Wijs spreekt over geboortes van allerlei aard; de geboorte van ondernemingen en kansen op werk, en ook de geboorte van een baby."
     },
     {
         name:
-        "Two of Wands is about manifesting using the will and strength of your mind. You might have to weigh up your options before deciding on the one that is best for you."
+        "Twee van staven gaat over manifesteren met behulp van de wil en de kracht van je geest. Het kan zijn dat je je opties moet afwegen voordat je beslist welke het beste bij je past."
     },
     {
         name:
-        "Three of Wands is the card for writers, and writing jobs and freelancers. It is also the card that follows the manifesting the querent did in Two of Wand, and the querent has now lived a new and exciting opportunity or dream."
+        "Drie van staven is de kaart voor schrijvers, en schrijfjobs en freelancers. Het is ook de kaart die volgt op het manifesteren dat de querent deed in Twee van Toverstokken, en de querent heeft nu een nieuwe en opwindende kans of droom beleefd."
     },
     {
         name:
-        "Four of Wands is the card for harmony and developing on a larger scale, often expanding your living situation, and also being stronger connected to a community."
+        "Vier van staven is de kaart voor harmonie en ontwikkeling op grotere schaal, vaak het uitbreiden van je woonsituatie, en ook het sterker verbonden zijn met een gemeenschap."
     },
     {
         name:
-        "Five of Wands is about standing up for what is important to you, even if it means meeting some opposition."
+        "Vijf van staven gaat over opkomen voor wat belangrijk voor je is, zelfs als dat betekent dat je op tegenstand stuit."
     },
     {
         name:
-        "Six of Wands is the card for popularity, progress, victory and success, self-confidence and getting what you want."
+        "Zes van staven is de kaart voor populariteit, vooruitgang, overwinning en succes, zelfvertrouwen en krijgen wat je wilt."
     },
     {
         name:
-        "Seven of Wands denotes being defensive and putting up barriers and boundaries. You are protecting your point of view and your position."
+        "Zeven van staven betekent defensief zijn en barrières en grenzen opwerpen. U beschermt uw standpunt en uw positie."
     },
     {
         name:
-        "Eight of Wands speaks of swift action and progress. It often shows up when there is a visitor coming, or when the querent is visiting someone."
+        "Acht van staven spreekt van snelle actie en vooruitgang. Het verschijnt vaak als er een bezoeker op komst is, of als de querent bij iemand op bezoek is."
     },
     {
         name:
-        "Nine of Wands is the card for strength, courage, resilience and endurance. Never give up and never surrender."
+        "Negen van staven is de kaart voor kracht, moed, veerkracht en uithoudingsvermogen. Geef nooit op en geef je nooit over."
     },
     {
         name:
-        "Ten of Wands is the card for hard work and taking on more responsibility."
+        "Tien van staven is de kaart voor hard werken en meer verantwoordelijkheid nemen."
     },
     {
         name:
-        "Page of Wands denotes an enthusiastic young person who is eager to explore and gain life experience."
+        "De schildknaap van staven duidt op een enthousiaste jongere die staat te popelen om te ontdekken en levenservaring op te doen."
     },
     {
         name:
-        "Knight of Wands denotes a person who is travelling through life at a high-speed, living life in the fast lane. This is someone who will be the life of the party."
+        "De ridder van staven duidt op een persoon die met hoge snelheid door het leven gaat, die het leven in de fast lane leeft. Dit is iemand die het leven van het feest zal zijn."
     },
     {
         name:
-        "Queen of Wands denotes a warm, kind and passionate woman. She is goal oriented and determined. She is also a metaphysic who can use her mind both to create harmony and havoc."
+        "De koningin van staven staat voor een warme, vriendelijke en gepassioneerde vrouw. Ze is doelgericht en vastberaden. Ze is ook een metafysica die haar verstand zowel kan gebruiken om harmonie te creëren als om verwoesting aan te richten."
     },
     {
         name:
-        "King of Wands denotes a married man who is a natural and charismatic leader. He has entrepreneurial skills and loves to run a new and exciting project."
+        "De koning van staven duidt op een getrouwde man die een natuurlijke en charismatische leider is. Hij heeft ondernemerskwaliteiten en houdt ervan om een nieuw en opwindend project te leiden."
     },
 
     //TRUMPS
@@ -335,233 +335,233 @@ var meanings = {
     //CUPS
     {
         name:
-        "Ace of Cups reversed indicates blocked creativity and blocked emotions. Access to the subconscious mind and psychic ability is also blocked."
+        "Aas van Bekers omgekeerd wijst op geblokkeerde creativiteit en geblokkeerde emoties. Toegang tot het onderbewustzijn en paranormale begaafdheid is ook geblokkeerd."
     },
     {
         name:
-        "T\nwo of Cups reversed indicates being afraid of love and relationship. The seeker might be dreaming of love, but when it comes down to actually having one, the fear of rejection and abandonment gets in the way."
+        "Twee van bekers omgekeerd geeft aan dat men bang is voor liefde en relaties. De zoeker droomt misschien van de liefde, maar als het erop aankomt er daadwerkelijk een te hebben, staat de angst voor afwijzing en verlating in de weg."
     },
     {
         name:
-        "Three of Cups reversed can indicate celebration gone wrong, bitching, jealousy and competition."
+        "Drie van bekers omgekeerd kan duiden op een verkeerd afgelopen feest, krengerij, jaloezie en concurrentie."
     },
     {
         name:
-        "Four of Cups reversed indicates the seeker has become unseated and is avoiding something and/or someone important."
+        "Vier van bekers omgekeerd geeft aan dat de zoeker niet meer op zijn plaats zit en iets en/of iemand belangrijks uit de weg gaat."
     },
     {
         name:
-        "Five of Cups reversed indicates disappointment in love and emotional matters. The two cups that still upright spill out when this card shows up reversed which denotes the seeker might be emotionally totally drained, usually by relationships."
+        "Vijf van bekers omgekeerd duidt op teleurstelling in de liefde en emotionele zaken. De twee bekers die nog rechtop staan, komen tevoorschijn wanneer deze kaart omgekeerd verschijnt, wat aangeeft dat de zoeker emotioneel totaal leeggezogen kan zijn, meestal door relaties."
     },
     {
         name:
-        "Six of Cups reversed indicates a difficult childhood and haunting, even disturbing childhood memories. Memories of all kinds can be an issue when this card shows up reversed, even memory loss."
+        "Zes van bekers omgekeerd duidt op een moeilijke jeugd en spookachtige, zelfs verontrustende jeugdherinneringen. Allerlei soorten herinneringen kunnen een probleem zijn als deze kaart omgekeerd is, zelfs geheugenverlies."
     },
     {
         name:
-        "Seven of Cups reversed indicates the seeker’s imagination is blocked. Daydreaming has turned into thoughts of fears and anxieties."
+        "Zeven van bekers omgekeerd geeft aan dat de verbeelding van de zoeker geblokkeerd is. Dagdromen is veranderd in gedachten van angsten en zorgen."
     },
     {
         name:
-        "Eight of Cups reversed indicates the seeker has given up their dream to surrender to a reality that is uncomfortable, loveless and miserable. The seeker might have surrendered their life to please someone else, sell their business to work at a job they dislike."
+        "Acht van bekers omgekeerd geeft aan dat de zoeker zijn droom heeft opgegeven om zich over te geven aan een realiteit die oncomfortabel, liefdeloos en ellendig is. De zoeker kan zijn leven hebben opgegeven om iemand anders te behagen, zijn bedrijf te verkopen om te werken in een baan die hij niet leuk vindt."
     },
     {
         name:
-        "Nine of Cups reversed indicates that the seeker is not going to get what they wish for. Family and friendship might be falling apart. There are disintegrating and separation, often due to lifestyle choices."
+        "Negen van bekers omgekeerd geeft aan dat de zoeker niet gaat krijgen wat hij wenst. Familie en vriendschap kunnen uit elkaar vallen. Er is sprake van desintegratie en scheiding, vaak als gevolg van keuzes in levensstijl."
     },
     {
         name:
-        "Ten of Cups reversed indicates disruption in the harmony, something or someone is making it hard to maintain the love. The seeker might be pretending everything is still wonderful in the hope that it will continue forever."
+        "Tien van bekers omgekeerd wijst op verstoring van de harmonie, iets of iemand maakt het moeilijk om de liefde in stand te houden. De zoeker doet misschien alsof alles nog prachtig is in de hoop dat het voor altijd zo zal blijven."
     },
     {
         name:
-        "Page of Cups reversed indicates, someone who is hard to motivate, they are feeling sad and bring down others with their gloomy nature. They might promise a lot, but deliver little if any."
+        "De schildknaap van bekers omgekeerd duidt op iemand die moeilijk te motiveren is, ze voelen zich verdrietig en halen anderen naar beneden met hun sombere aard. Ze kunnen veel beloven, maar weinig of niets waarmaken."
     },
     {
         name:
-        "Knight of Cups reversed indicates a person who is walking away from a relationship and/or a creative venture. The emotional state of the seeker might be far from romantic, instead it is more likely to be cynical and use their insights and intuition to make others hurt as much as they do."
+        "De ridder van bekers omgekeerd wijst op een persoon die wegloopt van een relatie en/of een creatieve onderneming. De emotionele toestand van de zoeker zou wel eens verre van romantisch kunnen zijn, in plaats daarvan is het waarschijnlijker dat hij cynisch is en zijn inzichten en intuïtie gebruikt om anderen evenveel pijn te doen als hijzelf."
     },
     {
         name:
-        "Queen of Cups reversed indicates someone with blocked psychic abilities and an emotionally unstable nature. This person might be very numb or even worse, has very dark feelings."
+        "De koningin van bekers omgekeerd wijst op iemand met geblokkeerde paranormale gaven en een emotioneel onstabiel karakter. Deze persoon kan erg gevoelloos zijn of nog erger, zeer donkere gevoelens hebben."
     },
     {
         name:
-        "King of Cups reversed indicates someone who is blocked expressing their feelings, is unable to motivate and be motivated. This is someone with a selfish streak, often born from fear of rejection."
+        "De koning van bekers omgekeerd duidt op iemand die geblokkeerd is in het uiten van zijn gevoelens, niet in staat is te motiveren en gemotiveerd te worden. Dit is iemand met een egoïstische inslag, vaak geboren uit angst voor afwijzing."
     },
 
     //PENTACLES
     {
         name:
-        "Ace of Pentacles reversed indicates financial losses and decrease in security. There might have been anticipation in regards to increased income and wealth which are not becoming a reality."
+        "Aas van pentacles omgekeerd duidt op financiële verliezen en vermindering van zekerheid. Er is misschien geanticipeerd op een toename van inkomen en rijkdom, maar die is niet uitgekomen."
     },
     {
         name:
-        "Two of Pentacles reversed indicates the seeker is unable to juggle the demands of life. He loses sight of his finances and practical aspects of life."
+        "Twee van pentacles omgekeerd geeft aan dat de zoeker niet in staat is de eisen van het leven te jongleren. Hij verliest zijn financiën en praktische aspecten van het leven uit het oog."
     },
     {
         name:
-        "Three of Pentacles reversed indicates lack of quality in work performance."
+        "Drie van pentacles omgekeerd wijst op gebrek aan kwaliteit in de werkprestaties."
     },
     {
         name:
-        "Four of Pentacles reversed indicates lack of something solid and dependable. There is nothing really reliable to hold on to."
+        "Vier van pentacles omgekeerd duidt op een gebrek aan iets solide en betrouwbaars. Er is niets echt betrouwbaars om je aan vast te houden."
     },
     {
         name:
-        "Five of Pentacles reversed indicates disorder and chaos. Not only is there no money, but there is also a lack of spirituality and friendship."
+        "Vijf van pentacles omgekeerd duidt op wanorde en chaos. Niet alleen is er geen geld, maar er is ook een gebrek aan spiritualiteit en vriendschap."
     },
     {
         name:
-        "Six of Pentacles reversed indicates a lack of generosity. There might be greediness rather than sharing of wealth."
+        "Zes van pentacles omgekeerd wijst op een gebrek aan vrijgevigheid. Er kan hebzucht zijn in plaats van het delen van rijkdom."
     },
     {
         name:
-        "Seven of Pentacles reversed indicates impatience and moving forward before the time is ripe. This card reversed can also mean unemployment."
+        "Zeven van pentacles omgekeerd duidt op ongeduld en vooruitgaan voordat de tijd rijp is. Deze kaart omgekeerd kan ook werkloosheid betekenen."
     },
     {
         name:
-        "Eight of Pentacles reversed indicates tedious work with little gains. The seeker might be overdue for a promotion they deserve but are not getting."
+        "Acht van pentacles omgekeerd wijst op eentonig werk met weinig resultaat. De zoeker kan te laat zijn voor een promotie die hij verdient maar niet krijgt."
     },
     {
         name:
-        "Nine of Pentacles reversed indicates loneliness and unhappiness. The home is neither secure nor very comfortable. The seeker might feel like a prisoner in their own home."
+        "Negen van pentacles omgekeerd wijst op eenzaamheid en ongelukkigheid. Het huis is niet veilig en niet erg comfortabel. De zoeker kan zich als een gevangene in zijn eigen huis voelen."
     },
     {
         name:
-        "Ten of Pentacles reversed indicates fortunes or legacies wasted or lost, or on a lesser note, delayed. There might be restrictive ties that become a burden."
+        "Tien van pentacles omgekeerd wijst op fortuinen of erfenissen die verspild of verloren zijn, of op een minder belangrijke manier, vertraagd. Er kunnen beperkende banden zijn die een last worden."
     },
     {
         name:
-        "Page of Pentacles reversed indicates issues with learning and problems with studies. It denotes wasted talents, unrealistic ambitions and/or intellectual snobbery."
+        "De schildknaap van pentacles Omgekeerd wijst op leerproblemen en studieproblemen. Het duidt op verspilde talenten, onrealistische ambities en/of intellectueel snobisme."
     },
     {
         name:
-        "Knight of Pentacles reversed indicates sloppiness, bitterness and envy. This is someone who is sucking up to those who can help them climb the ladder to wealth and success, but will do nothing for those who haven’t got money or connections."
+        "De ridder van pentacles omgekeerd duidt op slordigheid, bitterheid en afgunst. Dit is iemand die zich optrekt aan degenen die hem kunnen helpen de ladder naar rijkdom en succes te beklimmen, maar niets zal doen voor degenen die geen geld of connecties hebben."
     },
     {
         name:
-        "Queen of Pentacles reversed indicates poor taste and lack of sensitivity to other people’s needs."
+        "De koningin van pentacles omgekeerd duidt op slechte smaak en gebrek aan gevoeligheid voor de behoeften van andere mensen."
     },
     {
         name:
-        "King of Pentacles reversed indicates someone who is too conservative and who won’t take any chances. He is reluctant in making any changes in the way things are. He is likely to be a miser and a hoarder."
+        "De koning van pentacles omgekeerd wijst op iemand die te conservatief is en geen risico's wil nemen. Hij is terughoudend in het maken van veranderingen in de manier waarop dingen zijn. Hij is waarschijnlijk een vrek en een oppotter."
     },
 
     //SWORDS
     {
         name:
-        "Ace of Swords reversed indicates that the stirring of the aces is blocked. Ideas and communication are blocked."
+        "Aas van zwaarden omgekeerd geeft aan dat de roerselen van de azen geblokkeerd zijn. Ideeën en communicatie zijn geblokkeerd."
     },
     {
         name:
-        "Two of Swords reversed indicates conflicts are unavoidable and compromises are not reached. The querent might be exhibiting too much personality and creates drama just to have something to do."
+        "Twee van zwaarden omgekeerd geeft aan dat conflicten onvermijdelijk zijn en compromissen niet worden bereikt. De querent toont misschien te veel persoonlijkheid en creëert drama alleen maar om iets te doen te hebben."
     },
     {
         name:
-        "Three of Swords reversed indicates there is blocked grief stored in the person’s heart. The querent might be afraid of grieving and is internalising."
+        "Drie van zwaarden omgekeerd geeft aan dat er geblokkeerd verdriet is opgeslagen in het hart van de persoon. De persoon is misschien bang om te rouwen en verinnerlijkt het."
     },
     {
         name:
-        "Four of Swords reversed denotes restlessness and burn outs. Thoughts and beliefs interrupt the person from recuperating."
+        "Vier van zwaarden omgekeerd duidt op rusteloosheid en burn outs. Gedachten en overtuigingen onderbreken de persoon om te herstellen."
     },
     {
         name:
-        "Five of Swords reversed denotes conflict and arguments remaining unresolved, often dragging on indefinitely."
+        "Vijf van zwaarden omgekeerd duidt op conflicten en ruzies die onopgelost blijven, vaak eindeloos aanslepend."
     },
     {
         name:
-        "Six of Swords reversed indicates travel plans being held up or delayed. It also means difficulty in problem solving, especially mental tasks like maths and science."
+        "Zes van zwaarden omgekeerd geeft aan dat reisplannen worden opgehouden of vertraagd. Het betekent ook moeilijkheden bij het oplossen van problemen, vooral mentale taken zoals wiskunde en wetenschap."
     },
     {
         name:
-        "Seven of Swords reversed indicates clumsiness and forgetfulness, especially when it comes to recollecting what lies have been told and to whom"
+        "Zeven van zwaarden omgekeerd duidt op onhandigheid en vergeetachtigheid, vooral als het gaat om het herinneren welke leugens zijn verteld en aan wie."
     },
     {
         name:
-        "Eight of Swords reversed indicates a person who is unable to move forward due to self-doubts, fear, and isolation. The person knows the way forward, yet chooses to stay put, escaping in their own heads."
+        "Acht van zwaarden omgekeerd wijst op een persoon die niet in staat is vooruit te komen door zelftwijfels, angst en isolement. De persoon kent de weg vooruit, maar kiest ervoor om te blijven zitten, vluchtend in zijn eigen hoofd."
     },
     {
         name:
-        "Nine of Swords reversed indicates that issues and problems have been ignored rather than dealt with and when they resurface the querent might not know how to deal with them."
+        "Negen van zwaarden omgekeerd geeft aan dat problemen zijn genegeerd in plaats van aangepakt en als ze weer opduiken weet de kweker misschien niet hoe ermee om te gaan."
     },
     {
         name:
-        "Ten of Swords reversed indicates a person who is holding on to pain often inflicted by others. This querent might not be able to let go of what other people have inflicted and is feeling no support. Not just is there no support, there might even be deliberate sabotage."
+        "Tien van zwaarden omgekeerd wijst op een persoon die vasthoudt aan pijn die vaak door anderen is toegebracht. Deze persoon is misschien niet in staat los te laten wat anderen hem hebben aangedaan en voelt geen steun. Niet alleen is er geen steun, er kan zelfs sprake zijn van opzettelijke sabotage."
     },
     {
         name:
-        "Page of Swords reversed indicates a person who lies, gossips and being a know it all. This is someone who says inappropriate things and wastes his time in chat rooms. They don’t keep secrets or promises."
+        "De schildknaap van zwaarden omgekeerd wijst op een persoon die liegt, roddelt en een betweter is. Dit is iemand die ongepaste dingen zegt en zijn tijd verdoet in chatrooms. Hij houdt zich niet aan geheimen of beloftes."
     },
     {
         name:
-        "Knight of Swords reversed indicates a person with a speech impediment or learning disabilities. This is someone who is intelligent but for some reason is unable to express themselves."
+        "De ridder van zwaarden omgekeerd wijst op een persoon met een spraakgebrek of leerstoornissen. Dit is iemand die intelligent is, maar om de een of andere reden niet in staat is zich uit te drukken."
     },
     {
         name:
-        "Queen of Swords reversed indicates a woman who has problems with problem solving and communication. This is the type of person who will make accusations without checking the facts."
+        "De koningin van zwaarden omgekeerd wijst op een vrouw die problemen heeft met het oplossen van problemen en communicatie. Dit is het type persoon dat beschuldigingen zal uiten zonder de feiten te controleren."
     },
     {
         name:
-        "King of Swords reversed indicates a man who will manipulate facts to get his own ways. There is a block when it comes to integrity and objectivity. This is someone opinionated and biased."
+        "De koning van zwaarden omgekeerd wijst op een man die feiten zal manipuleren om zijn zin te krijgen. Er is een blokkade als het gaat om integriteit en objectiviteit. Dit is iemand die een eigen mening heeft en bevooroordeeld is."
     },
 
-    //WANDS
+    //STAVEN
     {
         name:
-        "Ace of Wands reversed indicates that new beginnings are blocked. Ideas and enterprises do not take hold and there is little if any growth."
+        "Aas van staven omgekeerd geeft aan dat een nieuw begin geblokkeerd is. Ideeën en ondernemingen slaan niet aan en er is weinig of geen groei."
     },
     {
         name:
-        "Two of Wands reversed indicates difficulties in making a decision, possibly due to the fear of making the wrong choice."
+        "Twee van staven omgekeerd wijst op moeilijkheden bij het nemen van een beslissing, mogelijk door de angst om de verkeerde keuze te maken."
     },
     {
         name:
-        "Three of Wands reversed indicates there is a delay in rewards and a delay in a payoff. The seeker might be out of their league, unable to cope with the demands."
+        "Drie van staven omgekeerd geeft aan dat er een vertraging is in beloningen en een vertraging in een uitbetaling. De zoeker is misschien te hoog gegrepen, niet in staat om aan de eisen te voldoen."
     },
     {
         name:
-        "Four of Wands reversed indicates the foundation not laid or not ready."
+        "Vier van staven omgekeerd geeft aan dat de fundering niet is gelegd of nog niet klaar is."
     },
     {
         name:
-        "Five of Wands reversed indicates loss in individuality. There is a struggle to stand out among others equally talented."
+        "Vijf van staven omgekeerd wijst op verlies van individualiteit. Er is een strijd om op te vallen tussen anderen die even getalenteerd zijn."
     },
     {
         name:
-        "Six of Wands reversed indicates not getting the rewards that are owed, success delayed of even defeat."
+        "Zes van staven omgekeerd wijst op het niet krijgen van de beloningen die men verschuldigd is, op uitgesteld succes of zelfs op een nederlaag."
     },
     {
         name:
-        "Seven of Wands reversed indicates an inability to hold your ground, especially if it is not popular. There is a lack of defending oneself."
+        "Zeven van staven omgekeerd wijst op een onvermogen om stand te houden, vooral als dat niet populair is. Er is een gebrek aan zelfverdediging."
     },
     {
         name:
-        "Eight of Wands reversed indicates lack of energy and slowness, and things are not moving in the right direction. There might be poor time management and delays."
+        "Acht van staven omgekeerd duidt op gebrek aan energie en traagheid, en dingen gaan niet in de goede richting. Er kan sprake zijn van slecht tijdbeheer en vertragingen."
     },
     {
         name:
-        "Nine of Wands reversed indicates weakness and stubbornness rather than strength and willpower. There is a waste of energy or lack of energy to save something."
+        "Negen van staven omgekeerd duidt eerder op zwakte en koppigheid dan op kracht en wilskracht. Er is verspilling van energie of gebrek aan energie om iets te redden."
     },
     {
         name:
-        "Ten of Wands reversed indicates fear of responsibilities, and incapability to keep on top of things. The seeker might be unmotivated and ready to walk away from their duties."
+        "Tien van staven omgekeerd wijst op angst voor verantwoordelijkheden, en onvermogen om de zaken bij te houden. De zoeker kan ongemotiveerd zijn en klaar om weg te lopen van zijn taken."
     },
     {
         name:
-        "Page of Wands reversed indicates a bully and a mean-tempered person who likes to show off and is demanding attention."
+        "De schildknaap van staven omgekeerd wijst op een bullebak en een opvliegend persoon die graag opschept en aandacht opeist."
     },
     {
         name:
-        "Knight of Wands reversed indicates a bully who wants to win at any costs. This is someone with acting talent who can turn his charm on and off and manipulate to get his way."
+        "De ridder van van staven omgekeerd wijst op een bullebak die koste wat kost wil winnen. Dit is iemand met acteertalent die zijn charme aan en uit kan zetten en kan manipuleren om zijn zin te krijgen."
     },
     {
         name:
-        "Queen of Wands reversed indicates intimidation and domination. There is a lack of faith or even worse, faith in black magic and darkness."
+        "De koningin van staven omgekeerd wijst op intimidatie en overheersing. Er is een gebrek aan geloof of nog erger, geloof in zwarte magie en duisternis."
     },
     {
         name:
-        "King of Wands reversed indicates dictatorship. This is someone with a god complex and a bad temper, often very violent."
+        "De koning van staven omgekeerd wijst op dictatuur. Dit is iemand met een godcomplex en een slecht humeur, vaak zeer gewelddadig."
     },
 
     //TRUMPS
